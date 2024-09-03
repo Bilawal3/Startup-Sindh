@@ -423,7 +423,9 @@
     height: 100%;
     margin-left: 10%;
 }
-
+.index1-bg{
+    background-image: url(img/index1-bg.jpg);
+}
 .index1-main h2 {
     font-size: 30px;
     font-weight: 700;
@@ -508,7 +510,7 @@
 
 .index1-main2 h1 {
     width: 100%;
-    font-size: 44.5px;
+    font-size: 30px;
     font-weight: 400;
     padding-top: 3%;
     text-align: justify;
